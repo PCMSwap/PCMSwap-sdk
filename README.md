@@ -1,4 +1,4 @@
-# Pancakeswap Profile SDK
+# PCMSwap Profile SDK
 
 This package provides some handy functions to retrieve data for Pancakeswap Profile system.
 
